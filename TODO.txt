@@ -1,0 +1,7 @@
+Known Issues:
+
+1. Does not support names that need a lot of disambiguation, even within the football category. E.g. Mike Adams: https://en.wikipedia.org/wiki/Mike_Adams. Who was a football safety of one era, and an offensive tackle of another: https://en.wikipedia.org/wiki/Mike_Adams_(offensive_tackle).
+
+2. Currently only gets the draft pick data for the NFL Draft, and does not produce data for Supplemental Drafts. E.g. Terrelle Pryor (2011 Supplemental Draft, 3rd Round).
+
+3. Only produces technically TSV - tab separated files currently (hard coded). Could be changed to be CSV option too.
